@@ -41,7 +41,7 @@ a {
 }
 .socialcontainer > a > i {
 	margin: 5px;
-	color: white;
+	color: #ffffcc;
 	padding: 5px;
 	border-radius: 20%;
 	opacity: 0.8;
@@ -91,11 +91,12 @@ h3 {
 	filter: saturate(400%) hue-rotate(270deg);
 }
 .aboutcontainer {
-	background: #282828;
+	background: #ffffcc;
 	padding: 10px;
 }
 .aboutcontainer > p {
-	background: #ffffcc;
+	background: #282828;
 	border-radius: 20px;
 	padding: 1rem;
+	color: #ffffcc;
 }
