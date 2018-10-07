@@ -72,10 +72,11 @@ a {
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: center;
+	margin: 0 auto;
 }
 .beautygrid > img {
-	width: 400px;
-	height: 400px;
+	width: 48%;
+	height: 48%;
 	margin: 5px;
 }
 h3 {
