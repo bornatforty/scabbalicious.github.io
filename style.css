@@ -27,6 +27,14 @@ a {
 	color: white;
 	font-size: 2.5vw;
 }
+	@media screen and (min-width: 700px) {
+		.navcontainer {
+			font-size: 18px;
+		}
+		.socialcontainer {
+			font-size: 18px;
+		}
+	}
 .navcontainer > ul {
 	display: flex;
 	flex-direction: row;
