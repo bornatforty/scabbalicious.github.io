@@ -83,7 +83,7 @@ a {
 }
 .beautygrid > div > img {
 	width: 48%;
-	margin: 3px;
+	margin: 0.5vw;
 }
 h3 {
 	text-align: center;
