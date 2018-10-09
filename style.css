@@ -34,6 +34,9 @@ a {
 		.socialcontainer {
 			font-size: 18px;
 		}
+		h3, p {
+			font-size: 14px;
+		}
 	}
 .navcontainer > ul {
 	display: flex;
@@ -87,7 +90,7 @@ a {
 figure {
 	margin: 0.5vw;
 }
-h3 {
+h3, p {
 	text-align: center;
 	font-size: 2.5vw;
 }
