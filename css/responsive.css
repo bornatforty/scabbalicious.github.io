@@ -1,0 +1,47 @@
+.slicknav_menu {
+	display: none;
+}
+@media screen and (max-width: 600px) {
+	.slicknav_menu {
+		display: inline-block;
+		position: fixed;
+		z-index: 1000;
+		top: 0;
+		left: 0;
+		background: transparent;
+	}
+	.slicknav_btn {
+		background: white;
+		color: deepskyblue;
+		margin: 1vh 0;
+	}
+	#menu {
+		display: none;
+	}
+	.slicknav_nav {
+		background: deepskyblue;
+		width: 200px;
+	}
+	.slicknav_nav li {
+		margin: 0;
+		padding: 0;
+		height: 3em;
+		line-height: 3em;
+		width: 200px;
+		text-align: center;
+		font-weight: bold;
+	}
+	.slicknav_nav li a:hover {
+		color: red;
+		transition: .3s ease-in;
+		background: transparent;
+		text-decoration: none;
+	}
+	.slider {
+		margin-top: 120px;
+	}
+	header {
+		margin-top: -112px;
+		background: deepskyblue;
+	}
+}
