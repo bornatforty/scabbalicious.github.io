@@ -8,3 +8,5 @@ Night mode is for the evening hours and there is a special Miami mode too, using
 Styling was originally done with plain CSS and has been updated to use Bootstrap 4 with animations and transitions.
 
 This page is simply my little corner of the dev world and a starting place to get to know me better.
+
+I've also implemented a very simple chatbot messaging interface with Drift.
