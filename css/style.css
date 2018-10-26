@@ -259,7 +259,7 @@ margin-top: 30px;
     display: inline-block;
     padding-left: 1em;
 }
-.project .fab {
+.project .fab, .project .fa {
     border: 2px solid white;
     border-radius: 50%;
     font-size: 2em;
@@ -281,7 +281,7 @@ margin-top: 30px;
     -moz-transition: .3s ease-in;
     -o-transition: .3s ease-in;
 }
-.project:hover .portfolio-icon .fab {
+.project:hover .portfolio-icon .fab, .project:hover .portfolio-icon .fa {
     border: 2px solid deepskyblue;
     background: white;
     color: deepskyblue;
