@@ -75,15 +75,15 @@ margin-top: 30px;
     color: #1da1f2;
 }
 .img1 {
-    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.7)), url(..//image/IMG_20180105_103838_687.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.7)), url(..//image/turtles.jpg);
     background-size: 100% 100%;
 }
 .img2 {
-    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.7)), url(..//image/IMG_20171230_131358_269.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.7)), url(..//image/canyon.jpg);
     background-size: 100% 100%;
 }
 .img3 {
-    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.7)), url(..//image/IMG_20180104_145228_417.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.7)), url(..//image/fuji.jpg);
     background-size: 100% 100%;
 }
 .slider, .slider ul, .slider ul li {
@@ -344,7 +344,7 @@ margin-top: 30px;
 }
 .contact-area {
     padding: 10vh 0px 5vh 0px;
-    background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url(..//image/IMG_20181012_165512.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url(..//image/roses.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -410,7 +410,7 @@ margin-top: 30px;
     min-height: 100px;
 }
 footer {
-    background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url(..//image/IMG_20181012_165512.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url(..//image/roses.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
